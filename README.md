@@ -24,6 +24,8 @@
 
 ## Yacht 게임 족보
 
+![1-016](https://github.com/fbghtjd/test/assets/96062799/ca063ec3-6adb-4930-9a75-27f6df2eee46)
+
 ## Yacht 게임 스코어보드 예시
 
 ![야추1](https://github.com/fbghtjd/test/assets/96062799/d84ecbbd-c8d0-455b-9665-1436a44cfb9d)
