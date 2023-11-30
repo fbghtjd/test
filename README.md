@@ -24,7 +24,8 @@
 
 ## Yacht 게임 족보
 
+## Yacht 게임 스코어보드 예시
 
-
+![야추1](https://github.com/fbghtjd/test/assets/96062799/d84ecbbd-c8d0-455b-9665-1436a44cfb9d)
 
 ### Yacht 게임 점수 계산 방법
